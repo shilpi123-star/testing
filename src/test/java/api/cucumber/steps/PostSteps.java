@@ -39,7 +39,7 @@ public class PostSteps {
     @Given("User should be logged in and should be present on his wall")
    public void user_should_be_logged_in_and_should_be_present_on_his_wall() {
        System.out.println("user_should_be_logged_in_and_should_be_present_on_his_wall");
-
+        System.out.println("This is commit from feature into master");
    }
   @When("I type the message in the box")
   public void i_type_the_message_in_the_box() {
