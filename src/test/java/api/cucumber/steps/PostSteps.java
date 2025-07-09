@@ -40,7 +40,7 @@ public class PostSteps {
    public void user_should_be_logged_in_and_should_be_present_on_his_wall() {
        System.out.println("user_should_be_logged_in_and_should_be_present_on_his_wall");
         System.out.println("This is commit from feature into master");
-     System.out.printl("This demo is for git rebase from eclipse");
+     System.out.println("This demo is for git rebase from eclipse");
    }
   @When("I type the message in the box")
   public void i_type_the_message_in_the_box() {
