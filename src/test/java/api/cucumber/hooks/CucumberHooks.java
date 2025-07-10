@@ -23,6 +23,6 @@ public void setUpSteps(){
 
    @AfterStep
     public void tearDownStep(){
-    System.out.println("----AfterStep hook----");
+    System.out.println("----AfterStep hook----")
 }
 }
